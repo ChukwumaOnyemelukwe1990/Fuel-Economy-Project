@@ -1,7 +1,7 @@
 # Fuel-Economy-Project
 
 # Objective
-Looking into the fuel economy in automotive world, exploring details about various vehicles spanning different years, makes, and models. It includes information on engine specifications, fuel types, transmission systems, even factors like fuel economy, CO2 emissions, and technological features. 
+Looking into the fuel economy in automotive world, exploring details about various vehicles spanning different years, makes, and models. It includes information on engine specifications, fuel types, transmission systems, even factors like fuel economy, CO2 emissions, and technological features. Predicting vehicles that are fuel efficient.
 
 # Dataset Used
 Vehicle.CVS Datasets
